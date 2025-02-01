@@ -36,8 +36,8 @@
 ---
 
 ## 🤝 Connect With Me
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hax18)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)](https://sambz.me)
-
 ---
 
 _Thank you for stopping by! Don't forget to ⭐ some repos you find interesting!_
