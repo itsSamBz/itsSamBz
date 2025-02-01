@@ -20,8 +20,8 @@
 
 ## 🌱 About Me
 - 🔭 Currently working on [Ai Tools for Teachers & Students].
-- 🌱 I’m learning [New Tech/Skill].
-- 💬 Ask me about [Specific Topics of Interest].
+- 🌱 I’m learning a bunch of stuff.
+- 💬 Ask me about...(Why would you ask me? 😒).
 - 📫 Reach me at: hax18@att.net
 - ⚡ Fun fact: Code Can Be Beautiful
 
