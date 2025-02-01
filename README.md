@@ -1,7 +1,7 @@
 
 # Hi there 👋
 
-![Profile Banner](https://via.placeholder.com/1200x300.png?text=Your+Custom+Banner+Here)
+![Profile Banner](https://i.ibb.co/N6CXgysM/Github-Banner.png)
 
 ---
 
