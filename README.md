@@ -2,7 +2,6 @@
 # Hi there 👋
 
 ![Profile Banner](https://i.ibb.co/N6CXgysM/Github-Banner.png)
----
 
 ###
 
