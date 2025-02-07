@@ -9,13 +9,6 @@
 
 ###
 
-<a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bgstatic&theme=react&line_height=40&hide=css"/>
-</a>
-
-###
-
-
 ---
 
 ## 🔧 Technologies & Tools
@@ -44,7 +37,7 @@
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsSamBz&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsSamBz&layout=compact&theme=radical)
 
 ---
 
