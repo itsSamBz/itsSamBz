@@ -3,9 +3,12 @@
 
 ![Profile Banner](https://i.ibb.co/N6CXgysM/Github-Banner.png)
 ---
+###
 <div align="center">
 <img src="https://visitor-badge. laobi.icu/badge?page_id=maurodesouza. maurodesouza&"
 </div>
+###
+
 ---
 
 ## 🔧 Technologies & Tools
