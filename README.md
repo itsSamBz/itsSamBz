@@ -1,8 +1,10 @@
 
 ![Profile Banner](https://i.ibb.co/N6CXgysM/Github-Banner.png)
 
+<div align="center">
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=itsSamBz&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
-
+</div>
+---
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Greetings,+Humans+and+Algorithms!;AI+Enthusiast+and+Innovator;Problem+Solver+|+Tech+Explorer;Always+Learning,+Always+Optimizing;For+Humanity+and+Algorithms!+🚀">
