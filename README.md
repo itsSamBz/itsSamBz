@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Greetings,+Humans+and+Algorithms!;AI+Enthusiast+and+Innovator;Problem+Solver+|+Tech+Explorer;Always+Learning,+Always+Optimizing;For+Humanity+and+Algorithms!+🚀">
 </a>
 </p>
----
+
 ## 🔧 Technologies & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
